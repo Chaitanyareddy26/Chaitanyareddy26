@@ -28,10 +28,10 @@ I’m a senior Java developer with over 7 years of experience designing, develop
 - **TruePush Platform:** Implemented high‑volume notification pipelines using Spring Batch, Kafka & RabbitMQ, and modernized deployments.  
 - **Capstones:** Developed customer segmentation ML models (Python), a Django To‑Do planner, analytics dashboards with React & D3, and ServiceNow scoped apps.
 
-## 💋 Connect with Me
+##  Connect with Me
 
 - 📧 [chaitanyareddy.cs26@gmail.com](mailto:chaitanyareddy.cs26@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chaitanya-redi-2a0681385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 - 🌐 [GitHub](https://github.com/Chaitanyareddy26)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.
