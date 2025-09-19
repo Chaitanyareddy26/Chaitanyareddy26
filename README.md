@@ -1,37 +1,71 @@
-# Hi, I'm Chaitanya 👋
+# Hi, I'm Chaitanya Reddy 👋
 
-**Senior Java Developer | Microservices | Cloud‑Native | Full‑Stack**
+**Senior Java Developer • Microservices • Cloud‑Native • Full‑Stack**
 
-I’m a senior Java developer with over 7 years of experience designing, developing and deploying enterprise applications across finance, healthcare and retail. I specialize in building scalable microservices, event‑driven systems and full‑stack solutions using Java, Spring Boot, React/Angular, Kafka and AWS. I love turning monolithic applications into cloud‑native microservices and enabling secure, observable platforms.
+I am a senior Java developer with 7+ years of experience designing, building and deploying enterprise applications across finance, healthcare and retail industries. I specialize in creating scalable microservices architectures, event-driven systems and full-stack solutions using Java, Spring Boot, React/Angular, Kafka, and AWS. I enjoy turning monolithic applications into cloud-native microservices and enabling secure, observable platforms.
+
+## 🚀 About Me
+
+- 🌍 Based in Florida, USA
+- 👨‍💻 Passionate about microservices, cloud‑native architectures and full‑stack development
+- 📚 Continuous learner exploring new frameworks and cloud technologies
+- 🎯 Focused on building resilient, event‑driven systems and improving developer experience
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-6f9a37?style=for-the-badge&logo=servicenow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+| Backend            | Frontend           | Cloud & DevOps                         | Data & Messaging            |
+|--------------------|--------------------|----------------------------------------|-----------------------------|
+| Java 8/11/17       | React, Angular, Next.js | AWS (ECS, EKS, Lambda, API Gateway, S3, RDS, DynamoDB, SQS, SNS), Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Helm, Ansible | PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, Kafka, RabbitMQ |
 
-## 🎓 Certifications
+## 💼 Experience
 
-- **AWS Certified Developer – Associate**
+### **Senior Java Developer** @ **Work4Flow**  
+*Feb 2024 – Present*  
+- Designed Spring Boot microservices integrated with Kafka for event‑driven workflows.  
+- Implemented Redis caching and event schedulers to optimise request handling and automation.  
+- Built React & TypeScript admin dashboards with reusable components and role‑based access control.  
+- Containerised services with Docker and deployed to AWS EKS/ECS via automated CI/CD pipelines (Jenkins & GitHub Actions).  
+- Integrated observability with OpenTelemetry, Prometheus and Grafana for real‑time monitoring.
 
-## 📂 Featured Projects
+### **Senior Software Developer** @ **SAIC**  
+*Jul 2022 – Aug 2023*  
+- Modernized checkout and payment systems using Spring Boot and PostgreSQL.  
+- Implemented resilient payment microservices with gRPC bidirectional streaming and idempotent APIs.  
+- Developed React and Angular modules ensuring PCI and ADA compliance.  
+- Optimized PostgreSQL queries and integrated external payment gateways.  
+- Deployed services with Docker & Kubernetes and automated CI/CD via GitHub Actions.
 
-- **Work4Flow:** Migrated a workflow platform to AWS microservices, built a Kafka event pipeline, and developed a React admin portal.  
-- **SAIC Payment Systems:** Built fault‑tolerant payment microservices with Resilience4j and gRPC, integrated external payment providers and automated deployments with Docker & Kubernetes.  
-- **Greenway Health Records:** Delivered FHIR‑compliant APIs and React dashboards with Elasticsearch search, ensuring HIPAA compliance.  
-- **TruePush Platform:** Implemented high‑volume notification pipelines using Spring Batch, Kafka & RabbitMQ, and modernized deployments.  
-- **Capstones:** Developed customer segmentation ML models (Python), a Django To‑Do planner, analytics dashboards with React & D3, and ServiceNow scoped apps.
+### **Senior Full Stack Engineer** @ **Greenway Health**  
+*Dec 2021 – Jun 2022*  
+- Migrated Angular modules to React with Storybook components and built clinician dashboards.  
+- Developed FHIR‑compliant REST and GraphQL APIs for secure healthcare data exchange.  
+- Integrated Elasticsearch indexing, asynchronous job queues and audit logging for compliance.  
+- Enabled internationalization (i18n) and responsive designs across patient portals.  
+- Implemented observability and audit trails using Splunk and OpenTelemetry.
 
-##  Connect with Me
+### **Software Backend Engineer** @ **TruePush**  
+*Aug 2018 – Nov 2020*  
+- Engineered ingestion pipelines with Spring Batch, Kafka and RabbitMQ for high‑volume push notifications.  
+- Built React dashboards for real‑time analytics and integrated socket connections for live updates.  
+- Developed REST APIs for notification management and implemented retry/dead‑letter handling.  
+- Containerised services with Docker & Kubernetes and automated CI/CD.  
+- Implemented monitoring and alerting with Micrometer, Prometheus and Grafana.
 
-- 📧 [chaitanyareddy.cs26@gmail.com](mailto:chaitanyareddy.cs26@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/chaitanya-redi-2a0681385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 🌐 [GitHub](https://github.com/Chaitanyareddy26)
+## 🎓 Education
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.
+- **M.S. in Information Science**, Trine University  
+- **B.Tech. in Computer Science**, NCET  
+
+## 📜 Certifications
+
+- AWS Certified Developer – Associate
+
+## 📫 Contact
+
+- ✉️ chaitanyareddy.cs26@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chaitanya-reddi-2068138570?utm_source=share&utm_content=profile&utm_medium=ios_app)  
+- 💻 [GitHub](https://github.com/Chaitanyareddy26)
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
