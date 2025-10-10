@@ -1,6 +1,6 @@
 # Hi, I'm Chaitanya Reddy 👋
 
-**Senior Java Developer • Microservices • Cloud‑Native • Full‑Stack**
+**Senior software engineer • Microservices • Cloud‑Native • Full‑Stack**
 
 I am a senior Java developer with 7+ years of experience designing, building and deploying enterprise applications across finance, healthcare and retail industries. I specialize in creating scalable microservices architectures, event-driven systems and full-stack solutions using Java, Spring Boot, React/Angular, Kafka, and AWS. I enjoy turning monolithic applications into cloud-native microservices and enabling secure, observable platforms.
 
@@ -19,7 +19,7 @@ I am a senior Java developer with 7+ years of experience designing, building and
 
 ## 💼 Experience
 
-### **Senior Java Developer** @ **Work4Flow**  
+### **Senior software engineer @**Blue Yonder****  
 *Feb 2024 – Present*  
 - Designed Spring Boot microservices integrated with Kafka for event‑driven workflows.  
 - Implemented Redis caching and event schedulers to optimise request handling and automation.  
@@ -27,7 +27,7 @@ I am a senior Java developer with 7+ years of experience designing, building and
 - Containerised services with Docker and deployed to AWS EKS/ECS via automated CI/CD pipelines (Jenkins & GitHub Actions).  
 - Integrated observability with OpenTelemetry, Prometheus and Grafana for real‑time monitoring.
 
-### **Senior Software Developer** @ **SAIC**  
+### **Senior Software Developer** @ **Creative Information Technology**  
 *Jul 2022 – Aug 2023*  
 - Modernized checkout and payment systems using Spring Boot and PostgreSQL.  
 - Implemented resilient payment microservices with gRPC bidirectional streaming and idempotent APIs.  
@@ -36,7 +36,7 @@ I am a senior Java developer with 7+ years of experience designing, building and
 - Deployed services with Docker & Kubernetes and automated CI/CD via GitHub Actions.
 
 ### **Senior Full Stack Engineer** @ **Greenway Health**  
-*Dec 2021 – Jun 2022*  
+*Dec 2020 – Jun 2022*  
 - Migrated Angular modules to React with Storybook components and built clinician dashboards.  
 - Developed FHIR‑compliant REST and GraphQL APIs for secure healthcare data exchange.  
 - Integrated Elasticsearch indexing, asynchronous job queues and audit logging for compliance.  
@@ -63,7 +63,7 @@ I am a senior Java developer with 7+ years of experience designing, building and
 ## 📫 Contact
 
 - ✉️ chaitanyareddy.cs26@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/chaitanya-reddi-2068138570?utm_source=share&utm_content=profile&utm_medium=ios_app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chaitanya-reddy-2068138570?utm_source=share&utm_content=profile&utm_medium=ios_app)  
 - 💻 [GitHub](https://github.com/Chaitanyareddy26)
 
 ---
